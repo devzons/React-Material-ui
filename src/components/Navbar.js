@@ -9,7 +9,7 @@ const Navbar = props => {
 		<nav className='nav-wrapper indigo darken-3'>
 			<div className='container'>
 				<Link to='/' className='brand-logo'>
-					Poke Times
+					FlashTimes
 				</Link>
 				<ul className='right'>
 					<li>
